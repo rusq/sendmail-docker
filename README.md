@@ -1,2 +1,8 @@
 # sendmail-docker
-sendmail in docker to aid debugging
+
+Sendmail docker container for development purposes.
+
+Grab it here:
+```sh
+docker pull ffffuuu/sendmail
+```
